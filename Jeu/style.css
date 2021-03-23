@@ -1,0 +1,680 @@
+canvas {
+    width: 1200px;
+    height: 100vh;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #2d2e2d;
+    margin: 0;
+    overflow: hidden;
+    position: relative;
+    margin: 0;
+}
+
+.text-db1 {
+    position: absolute;
+    top: 2%;
+    right: 2%;
+    width: 50%;
+}
+
+.explications-graphist {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    display: none;
+}
+
+.wage-graphist {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.studies-graphist {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.status-graphist {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.text-db2 {
+    position: absolute;
+    top: 2%;
+    right: 2%;
+    width: 50%;
+}
+
+.explications-motionDesigner {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    display: none;
+}
+
+.wage-motionDesigner {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.studies-motionDesigner {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.status-motionDesigner {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.text-db3 {
+    position: absolute;
+    top: 2%;
+    right: 2%;
+    width: 50%;
+}
+
+.explications-UIUXDesigner {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    display: none;
+}
+
+.wage-UIUXDesigner {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.studies-UIUXDesigner {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.status-UIUXDesigner {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+
+
+.text-db4 {
+    position: absolute;
+    top: 2%;
+    right: 2%;
+    width: 50%;
+}
+
+.explications-integrateurWeb {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    display: none;
+}
+
+.wage-integrateurWeb {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.studies-integrateurWeb {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.status-integrateurWeb {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+
+.text-db5 {
+    position: absolute;
+    top: 2%;
+    right: 2%;
+    width: 50%;
+}
+
+.explications-developpeurWeb {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    display: none;
+}
+
+.wage-developpeurWeb {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.studies-developpeurWeb {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.status-developpeurWeb {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.text-db6 {
+    position: absolute;
+    top: 2%;
+    right: 2%;
+    width: 50%;
+}
+
+.explications-webMaster {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    display: none;
+}
+
+.wage-webMaster {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.studies-webMaster {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.status-webMaster {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.text-db7 {
+    position: absolute;
+    top: 2%;
+    right: 2%;
+    width: 50%;
+}
+
+.explications-architectReseau {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    display: none;
+}
+
+.wage-architectReseau {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.studies-architectReseau {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.status-architectReseau {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.text-db8 {
+    position: absolute;
+    top: 2%;
+    right: 2%;
+    width: 50%;
+}
+
+.explications-chefProjet {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    display: none;
+}
+
+.wage-chefProjet {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.studies-chefProjet {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.status-chefProjet {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.text-db9 {
+    position: absolute;
+    top: 2%;
+    right: 2%;
+    width: 50%;
+}
+
+.explications-communityManager {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    display: none;
+}
+
+.wage-communityManager {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.studies-communityManager {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.status-communityManager {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.text-db10 {
+    position: absolute;
+    top: 2%;
+    right: 2%;
+    width: 50%;
+}
+
+.explications-webMarketeur {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    display: none;
+}
+
+.wage-webMarketeur {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.studies-webMarketeur {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.status-webMarketeur {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.text-db11 {
+    position: absolute;
+    top: 2%;
+    right: 2%;
+    width: 50%;
+}
+
+.explications-realisateurMultimedia {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    display: none;
+}
+
+.wage-realisateurMultimedia {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.studies-realisateurMultimedia {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.status-realisateurMultimedia {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.text-db12 {
+    position: absolute;
+    top: 2%;
+    right: 2%;
+    width: 50%;
+}
+
+.explications-videaste {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    display: none;
+}
+
+.wage-videaste {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.studies-videaste {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.status-videaste {
+    width: 90%;
+    height: auto;
+    background-color: #ededed;
+    padding: 25px;
+    border-radius: 1rem;
+    display: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.choix {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 105%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.choix1 {
+    width: 20%;
+    height: auto;
+    font-size: 1em;
+    padding: 10px 15px 10px 15px;
+    border-radius: 1em;
+    display: none;
+}
+
+.choix2 {
+    width: 20%;
+    height: auto;
+    font-size: 1em;
+    padding: 10px 15px 10px 15px;
+    border-radius: 1em;
+    display: none;
+}
+
+.choix3 {
+    width: 20%;
+    height: auto;
+    font-size: 1em;
+    padding: 10px 15px 10px 15px;
+    border-radius: 1em;
+    display: none;
+}
+
+.choix4 {
+    width: 20%;
+    height: auto;
+    font-size: 1em;
+    padding: 10px 15px 10px 15px;
+    border-radius: 1em;
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
